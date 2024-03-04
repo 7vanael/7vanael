@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a new code line writer looking to learn new lines of code to write!
+
+I'm a bit of a biology nerd and have a background in health care. 
+I'm in the Southwest of the US, gardening, coding & collaborating; happy to chat about any of them!
